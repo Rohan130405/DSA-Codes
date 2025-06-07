@@ -39,7 +39,6 @@ public class BinaryTree {
         Node obj1 = new Node(1);
         obj1.setLeft(new Node(2));
         obj1.setRight(new Node(3));
-        obj1.setLeft(new Node(4));
     }
 
 }
